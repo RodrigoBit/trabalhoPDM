@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+imagem-modelo/
+.env
+.env.*
+!.env.example
+.DS_Store
+coverage/
