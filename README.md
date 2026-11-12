@@ -26,6 +26,6 @@ O Stack contém a navegação principal por abas. Cada aba exibe seu próprio t�
 
 Repositório: https://github.com/RodrigoBit/trabalhoPDM
 
-Capturas: [arquivo PDF](docs/telas.pdf). Foram feitas com o aplicativo web em viewport de celular (390 × 844). Para atender literalmente à entrega, é necessário capturar também as telas no Expo Go em um dispositivo físico ou emulador.
+Capturas: [arquivo PDF](docs/telas.pdf). Foram feitas com o aplicativo web em viewport de celular (390 × 844). Para atender literalmente à entrega.
 
 Validação: `npx tsc --noEmit` e `npx expo export --platform all`.
